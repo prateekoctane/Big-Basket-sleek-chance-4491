@@ -45,7 +45,7 @@ https://vaibhav-firke-makes-great-sites-e8301.netlify.app/
 
 ---
 
-<h3>Some Glimps of Project :</h3>
+<h3>Some Glimpse of Project :</h3>
 <h5>✨Home Page with Navbar and Footer</h5>
 <img src="https://github.com/Nikhil-81/sleek-chance-4491/blob/main/bigbasket/Home.PNG"/>
 
